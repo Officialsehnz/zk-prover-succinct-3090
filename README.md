@@ -145,14 +145,3 @@ After Stage 2.5, we expect a transition to **Stage 3 (Mainnet)**, where real PRO
 
 ---
 
-## 👤 Maintainer – Selome Iroko
-
-🔬 ZK researcher | 💻 GPU prover enthusiast | 🧱 Building soil-less farms & integrated systems  
-Currently participating in multiple testnets and exploring sustainable proving setups.  
-**Contact:** [github.com/yourgithubhandle](https://github.com/yourgithubhandle)
-
----
-
-## 🪪 License
-
-MIT License – Feel free to fork, adapt, and improve this setup for your own Stage 2.5 prover experience.
