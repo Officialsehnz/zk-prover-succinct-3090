@@ -119,7 +119,7 @@ Scripts, environment files, and log parsing tools will be added to this repo onc
 
 ## 📅 How Long Will Stage 2.5 Last?
 
-Succinct Labs has hinted at **Stage 2.5 running for 4–8 weeks**, starting in early June 2025. Based on this, GPU rental should ideally be aligned to:
+Succinct Labs has hinted at **Stage 2.5 running for 4–8 weeks**, maybe starting officially in late June 2025. Based on this, GPU rental should ideally be aligned to:
 - **1-month minimum**: For early leaderboard and reward qualification
 - **2-month maximum**: If planning to extract maximum participation ROI
 
