@@ -1,5 +1,10 @@
-# zk-prover-succinct-3090
-Emphasizes zero-knowledge proving with a 3090.
+**Author:** \[Sehnz]
+**Date:** June 2025
+
+* [Twitter:] (https://x.com/tradewithsehnz)
+* [Discord:] @officialsehnz
+
+Let's hit it
 
 # 🧪 Succinct Prover Node – Stage 2.5 Participation
 
